@@ -8,5 +8,7 @@ Works smiliarly to Octosniff
 
 # Requirements
 Java 8 or later
+
 Windows - WinPCap (https://www.pcap4j.org/)
+
 Mac/Linux - Libcap (https://www.pcap4j.org/)
